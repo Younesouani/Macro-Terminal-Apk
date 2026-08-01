@@ -1,4 +1,4 @@
-0This repository contains Macro Terminal, an institutional-grade 
+This repository contains Macro Terminal, an institutional-grade 
 mobile financial intelligence platform engineered with React Native
 and Expo by Youness Ouani, a software developer specializing 
 in modern JavaScript and TypeScript architectures.
